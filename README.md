@@ -15,7 +15,7 @@ We all know how our development environments can get a bit messy... :sweat_smile
 ### :floppy_disk: Install
 
 ```
-npm install generate-package-json-webpack-plugin --save-dev
+npm install @dead50f7/generate-package-json-webpack-plugin --save-dev
 ```
 
 ## :electric_plug: Usage
